@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ad5d12-19c2-435c-93ba-536661eca96e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AddTwoNumbers2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddTwoNumbers2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caesar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FavoriteColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FavoriteColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Music.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Music.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grade.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1w62hE9GGVKiHC3H18zJzpA1KGq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ad5d12-19c2-435c-93ba-536661eca96e" name="Default Changelist" comment="" />
+      <created>1627764835335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627764835335</updated>
+    </task>
+    <servers />
+  </component>
+</project>
