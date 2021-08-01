@@ -5,8 +5,11 @@ public class Shirt {
 	public static char size;
 	
 	
-	Shirt() {
-		System.out.println("inside constructor!");
+	Shirt() {}
+
+	Shirt(String newColor, char newSize) {
+		color = newColor;
+		size = newSize;
 	}
 	public static void putOn() {
 		System.out.println("Shirt is on!");
